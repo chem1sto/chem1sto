@@ -45,13 +45,13 @@
 
 <p align="left">My contacts below:</p>
 <div align="left">
-  <p></p><a href="https://t.me/chemisto" target="_blank">
+  <p>I'm always in touch via my favorite Telegram Messenger</p><a href="https://t.me/chemisto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" width="52" alt="telegram logo" />
   </a></p>
-  <p><a href="https://discord.com/users/255793334856056833" target="_blank">
+  <p>You can call me in Discord<a href="https://discord.com/users/255793334856056833" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" width="52" alt="discord logo" />
   </a></p>
-  <p><a href="https://www.linkedin.com/feed/" target="_blank">
+  <p>Feel free to message me in LinkedIn<a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo" />
   </a></p>
 </div>
