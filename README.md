@@ -35,6 +35,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chem1sto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=chem1sto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -42,7 +43,7 @@
 
 ###
 
-<p align="left">My contacts below::</p>
+<p align="left">My contacts below:</p>
 <div align="left">
   <a href="https://t.me/chemisto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" width="52"  alt="telegram logo" />
