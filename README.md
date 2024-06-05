@@ -45,15 +45,15 @@
 
 <p align="left">My contacts below:</p>
 <div align="left">
-  <a href="https://t.me/chemisto" target="_blank">
+  <p></p><a href="https://t.me/chemisto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" width="52" alt="telegram logo" />
-  </a>
-  <a href="https://discord.com/users/255793334856056833" target="_blank">
+  </a></p>
+  <p><a href="https://discord.com/users/255793334856056833" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" width="52" alt="discord logo" />
-  </a>
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  </a></p>
+  <p><a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo" />
-  </a>
+  </a></p>
 </div>
 
 ###
